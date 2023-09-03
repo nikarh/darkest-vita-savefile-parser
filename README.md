@@ -12,7 +12,7 @@ This tool allows easily converting this `.z` file to a folder with Json and vice
 
 ## Usage
 
-All of the CLI flags are explain in the help
+All of the CLI flags are explained in the help
 
 ```
 darkest-vita-savefile --help
